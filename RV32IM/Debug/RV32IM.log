@@ -1,4 +1,0 @@
-﻿  RV32IM.cpp
-C:\Dev\Project\RV32IM_P01\RV32IM\RV32IM.cpp(881,15): warning C4101: 'rs2': unreferenced local variable
-C:\Dev\Project\RV32IM_P01\RV32IM\RV32IM.cpp(882,15): warning C4101: 'imm2': unreferenced local variable
-  RV32IM.vcxproj -> C:\Dev\Project\RV32IM_P01\Debug\RV32IM.exe
